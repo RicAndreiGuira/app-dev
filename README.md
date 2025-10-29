@@ -2,7 +2,7 @@
 My first repository
 
 # **3 Movies**
--Kpop Demon HUnter
+-Kpop Demon Hunter
 -Pacific Rim
 -World War Z
 
